@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
   "description": "A project that does something awesome",
   "keywords": ["freecodecamp","backend", "javascript"],
 	"author": "Merissa Bridgeman",
